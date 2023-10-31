@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'Cantek-app-01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C412ADEFEB724AF787C0BB3952AB2B35 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_568B2500493C444BADF266C4C8575591 }}
           package: .
